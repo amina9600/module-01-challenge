@@ -22,6 +22,7 @@ How: I have ensured the website meets the accessibility sgandards by completing 
 * [Installation](#installation)
 * [Usage](#usage)
 * [Code](#code)
+* [Deployment] (#deployment)
 * [Credits](#credits)
 * [License](#license)
 
@@ -42,15 +43,17 @@ How: I have ensured the website meets the accessibility sgandards by completing 
 
 ## Usage 
 
-```md
-![alt text](assets/images/screenshot.png)
-```
+ ![alt text](assets/images/screenshot.png)
 
 ## Code
 
 <ul>
     <li>HTML</li>
     <li>CSS</li>
+
+## Deployment 
+
+Deployed Link: https://amina9600.github.io/module-01-challenge/
 
 ## Credits
 
